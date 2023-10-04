@@ -1,0 +1,4 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population",Death rate per 100 000 population,
+AF,Africa,MUS,Mauritius,2020,All,Age_all,[All],141.00000000,1.27486438,9.84082852,11.13972854,
+AF,Africa,SYC,Seychelles,2020,All,Age_all,[All],3.00000000,0.44910180,1.59043613,3.04686072,
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age_all,[All],5115.00000000,0.15116459,1.23035972,1.54530484,

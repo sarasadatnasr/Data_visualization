@@ -1,0 +1,7 @@
+Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population",Death rate per 100 000 population,
+AF,Africa,EGY,Egypt,2010,All,Age_all,[All],5.00000000,0.00101707,0.00828894,0.00604148,
+AF,Africa,MUS,Mauritius,2010,All,Age_all,[All],70.00000000,0.78731301,5.08693052,5.63115606,
+AF,Africa,REU,R?union,2010,All,Age_all,[All],2.00000000,0.04721435,0.24597624,0.24081327,
+AF,Africa,SYC,Seychelles,2010,All,Age_all,[All],1.00000000,0.15060241,3.66876024,1.09572230,
+AF,Africa,ZAF,South Africa,2010,All,Age_all,[All],18325.00000000,3.36945809,37.70382601,35.77916098,
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age_all,[All],8371.00000000,0.33900460,2.32815916,2.70896089,
